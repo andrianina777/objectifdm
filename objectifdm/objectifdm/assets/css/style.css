@@ -1,0 +1,26 @@
+.modal-lg { max-width: 80% !important; }
+
+
+.table {
+    display:block;
+    height: 500px; 
+    overflow-y: scroll;
+    
+
+  } 
+
+  .tableFixHead thead th { position: sticky; top: 0; z-index: 1;background:#CDD3CA ; }
+
+
+  table.dataTable thead {background-color:#CDD3CA}
+
+  #maj {
+    position: absolute;
+    text-align: center;
+    top: 8px;
+    right: 16px;
+  }
+
+#notif{
+  color: red;
+}
